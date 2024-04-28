@@ -1,3 +1,43 @@
-<html>
-    <p> real man hand tho you
-    </p>
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>How People Grow</title>
+
+
+
+    </head>
+
+<body>
+    <h1> How People Grow</h1>
+    <h2>By Mac</h2>
+
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel numquam doloribus, ducimus nihil reprehenderit
+        , earum aliquam aut, vero ab sapiente fugiat distinctio dicta quasi corporis soluta eum molestiae corrupti quo!</p>
+
+    <h2><p> Well <strong>NOW YOULL LEARN!</strong></p></h2>
+
+    <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic culpa sapiente nam voluptate ad quo eius,
+         aliquid quasi sequi, quibusdam nostrum at enim iste officia 
+         voluptatem odio eveniet repellat. Lorem ipsum dolor sit
+          amet, consectetur adipisicing elit.
+           Repudiandae et dolorum sed reprehenderit facere velit officiis culpa beatae delectus, excepturi voluptatibus nisi, eum, dolores quia illum est.
+        Perspiciatis, ea molestias. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Aliquid, quae iusto qui reiciendis voluptates voluptate quo?
+         Natus, porro? Tempora voluptatum cumque blanditiis vero enim quidem. 
+        Fugit voluptate nobis velit iste!. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Sint repellendus sunt laborum accusantium tenetur dicta.
+     Obcaecati beatae nostrum iste ipsum alias doloremque, aspernatur quod aut labore excepturi ex repellendus eligendi!</p>
+
+     <h2><p> But <em> When </em>does this take effect?</p></h2>
+
+     <h3>soon</h3>
+     <h4>soon</h4>
+     <h5>soon</h5>
+     <h6>soon</h6>
+</body>
+
+<!-- JIGGET -->
+
+</html>
